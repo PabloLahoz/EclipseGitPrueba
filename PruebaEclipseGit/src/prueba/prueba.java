@@ -31,7 +31,7 @@ public class prueba {
 			             break;
 			          case 3:
 			             salir = true;
-			             System.out.println("Has salido del conversor");
+			             System.out.println("Has salido del conversor. Que tenga un buen día.");
 			             break;
 			       }
 			 }
